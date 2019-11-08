@@ -73,3 +73,9 @@ ul:hover li {
 ul li:hover {
     width: 750px;
 }
+
+.art-page {
+    background-image: url("./images/backg50.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
