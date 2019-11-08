@@ -70,3 +70,17 @@ li {
     font-family: 'Neucha', cursive;
 
 }
+
+.image-text {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    padding-top: 20px;
+    font-family: 'Russo One', sans-serif;
+    text-shadow: 3px 3px black;
+}
+
+a {
+    text-decoration: none;
+}
